@@ -1,0 +1,15 @@
+p {
+	height: 50px;
+}
+.one {
+	background-color: red;
+	width: 50px;   
+}
+.two {
+	background-color: orange;
+	width: 100px;
+}
+.three {
+	background-color: #663399;
+	width: 150px;
+}

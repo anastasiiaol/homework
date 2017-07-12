@@ -1,0 +1,18 @@
+p {
+	width: 500px;
+	border: dashed;
+	text-align: center;
+	line-height: 50px;
+}
+span {
+	font-style: italic;
+
+}
+.down {
+	color: blue;
+	font-style: normal;
+}
+.up {
+	color: red;
+	font-style: normal;
+}
